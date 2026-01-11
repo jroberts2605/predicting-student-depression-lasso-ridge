@@ -47,4 +47,4 @@ shrinkage behavior.
 ## Author
 Joshua Stewart-Roberts  
 Rutgers University – New Brunswick  
-Data Science (Statistics Track)
+Data Science
